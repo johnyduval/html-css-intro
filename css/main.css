@@ -78,7 +78,7 @@ footer a {
     color: tomato;
 }
 
-footer #links, #partners {
+footer .footer-content {
     width: 50%;
     background-color: black;
     display: block;
