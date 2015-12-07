@@ -67,3 +67,20 @@ table td {
 table {
     margin: 10px;
 }
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+footer a {
+    text-decoration: none;
+    color: tomato;
+}
+
+footer #links, #partners {
+    width: 50%;
+    background-color: black;
+    display: block;
+    float: left;
+}
